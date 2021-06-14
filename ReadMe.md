@@ -6,4 +6,4 @@ Sentiment analysis using Natural Language Processing (TextBlob) and WordCloud an
 Steps:
 - Data Pre-process data: removing unneeded columns and generalise tweets.
 - Using TextBlob: Analyse Subjectivity and Polarity. By identifying which tweets as positive, negative and neutral.
-- Use the WordCloud to display a word cloud of the most common words analysed.
+- Using WordCloud: to display a word cloud of the most common words analysed & Matplotlib: to display Sentiment summary.
